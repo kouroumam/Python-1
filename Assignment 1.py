@@ -16,5 +16,3 @@ time = float(input("Enter the time period: "))
 
 simple_interest = (principal * interest_rate * time) / 100
 print("The calculated simple interest is: ", simple_interest)
-
-nj
